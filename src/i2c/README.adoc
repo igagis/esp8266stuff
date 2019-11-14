@@ -1,0 +1,5 @@
+= i2c bit bang library for ESP8266
+
+The library can be configured to work with almost any GPIO pins of `ESP8266`.
+
+In all available `i2c` libraries for `ESP8266` there were some bugs, so I decided to make my own implementation in C++.
