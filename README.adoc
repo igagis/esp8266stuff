@@ -1,4 +1,8 @@
 = My useful stuff for ESP8266
 
 The stuff is for use with ESP NONEOS SDK.
+All is written in C++'11 or above.
 
+= Contents
+
+- `i2c` - bit bang implementation of i2c
