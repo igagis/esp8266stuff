@@ -1,3 +1,3 @@
 = i2c bit bang library for ESP8266
 
-The libraya ca be configured to work with almost any GPIO pins of ESP8266.
+The library can be configured to work with almost any GPIO pins of ESP8266.
