@@ -5,4 +5,5 @@ All is written in C++'11 or above.
 
 = Contents
 
-- `i2c` - bit bang implementation of i2c
+- `i2c` - bit bang implementation of `i2c` bus
+- `bh1750fvi` - library for working with `BH1750FVI` light sensor
