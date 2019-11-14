@@ -1,0 +1,3 @@
+= Light sensor library
+
+Library for working with `BH1750FVI` light sensor over `i2c`.
